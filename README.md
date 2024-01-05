@@ -1,4 +1,4 @@
-# chat_app
+# Chat_app
 
 Đây là một ứng dụng chat real-time đơn giản được xây dựng bằng Spring Boot và WebSocket.
 
@@ -6,7 +6,7 @@
 
 ### Yêu cầu
 
-- Java Development Kit (JDK)
+- Java Development Kit (JDK) - version 17
 - IDE (recommend Intellij)
 
 ### Chạy ứng dụng
